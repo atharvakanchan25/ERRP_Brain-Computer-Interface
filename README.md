@@ -1,6 +1,7 @@
 # 🧠 CognitiLearn: Brain-Computer Interface for Cognitive Enhancement
 
 CognitiLearn is an Android-based Brain-Computer Interface (BCI) application designed to enhance cognitive performance through EEG-based brain games. The app leverages Error-Related Potentials (ErrPs), such as Error-Related Negativity (ERN) and Error Positivity (Pe), to detect cognitive errors in real time and adapt training exercises accordingly.
+![image](https://github.com/user-attachments/assets/2d9086ee-05df-4bed-9ade-b9932f8835fc)
 
 ---
 
